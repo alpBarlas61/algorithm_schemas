@@ -1,0 +1,10 @@
+#Add the odd numbers from one to ten
+1.Start
+2.T=0
+3.J=1
+4.If J > 10 go step 8
+5.T=T+J
+6.J = J+2
+7.Go step 4
+8.Print out T
+9.Stop
