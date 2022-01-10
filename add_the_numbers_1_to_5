@@ -1,0 +1,7 @@
+1.Start
+2.S=0
+3.If S>4 go step 
+4.S=S+1
+5.Go step 3
+6.Print out S
+7.Stop
