@@ -1,0 +1,10 @@
+1.Start
+2.T=0
+3.Take input for A
+4.T=T+A
+5.Take input for B
+6.T=T+B
+7.Take input for C
+8.T=T+C
+9. Print out T
+10.Stop
