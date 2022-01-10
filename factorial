@@ -1,0 +1,10 @@
+1.Start
+2.Take the input for N
+3.S=1
+4.T=1
+5.If S>N go step
+6.T=T*S
+7.S=S+1
+8.Go step 5
+9.Print out T
+10.Finish
